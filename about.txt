@@ -2,3 +2,4 @@ some content
 name: Roby
 address: somewhere outthere ...
 zip: 457890
+fax: 09-4444444
